@@ -1,0 +1,17 @@
+RELATORIO DETALHADO DE CONSUMO
+==============================
+
+Data: 19/12/1970
+  Madrugada (00:00 - 05:59): 0.00 kWh
+  Manha     (06:00 - 11:59): 10.00 kWh
+  Tarde     (12:00 - 17:59): 0.00 kWh
+  Noite     (18:00 - 23:59): 0.00 kWh
+  Consumo Total do Dia:   10.00 kWh
+----------------------------------------
+Data: 29/11/2021
+  Madrugada (00:00 - 05:59): 0.00 kWh
+  Manha     (06:00 - 11:59): 0.00 kWh
+  Tarde     (12:00 - 17:59): 50.00 kWh
+  Noite     (18:00 - 23:59): 0.00 kWh
+  Consumo Total do Dia:   50.00 kWh
+----------------------------------------
